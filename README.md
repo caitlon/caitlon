@@ -11,7 +11,7 @@ Prague, Czech Republic 🇨🇿
 ## 👩‍💻 About Me
 
 - 💼 Machine Learning & AI engineer with real-world experience in data engineering and analytics 
-- 🎓 Collaborating with a university research group at CTU on applied ML methods 
+- 🎓 Collaborating with a university research group at CZU on applied ML methods 
 - 🧪 My sweet spot: where academic precision meets production reality
 
 ## 🚀 Featured Projects
