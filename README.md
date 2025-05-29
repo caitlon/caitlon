@@ -13,13 +13,12 @@ Prague, Czech Republic 🇨🇿
 - 💼 Machine Learning & AI engineer with real-world experience in data engineering and analytics 
 - 🎓 A-level AI student, involved in university-led ML research  
 - ☁️ Building and deploying scalable ML pipelines with Azure ML, PySpark, Docker, and FastAPI  
-- 🔬 Obsessed with designing robust, interpretable ML systems that actually survive in production
+- 🧪 My sweet spot: where academic precision meets production reality
 
 ### 🚀 Featured Projects
 
-🩺 **[Pneumonia Classifier](#)** – End-to-end FastAPI + Azure deployment for X-ray image classification  
-📊 **[Bank Risk Detection](#)** – PySpark-based risk scoring model w/ batch + streaming logic  
-🧠 **[LLM Prompt Evaluator](#)** – Tool for analyzing hallucination rate in large language models  
+🩺 **[Pneumonia Classifier](https://github.com/caitlon/pneumonia-classifier)** – End-to-end FastAPI + Azure deployment for X-ray image classification  
+🍅 **[NIRS – Tomato Spectroscopy Analysis](https://github.com/caitlon/NIRS)** – Deep regression pipeline for analyzing tomato quality with NIR spectroscopy, MLflow tracking, spectral transforms, and rich visualizations 
 
 ### 📈 GitHub Stats & Activity
 <div align="center">
@@ -65,35 +64,30 @@ Prague, Czech Republic 🇨🇿
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" title="Jupyter – notebooks for prototyping and storytelling" />
   <img src="images/mlflow.png" height="30" alt="MLflow" title="MLflow – experiment tracking & model lifecycle" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30" alt="HuggingFace" title="Hugging Face – Transformers, datasets, 🤗 everything LLMs" />
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/img/favicon.ico" height="30" alt="LangChain" title="LangChain – building LLM agents and chains" />
+  <img src="images/langchain.jpg" height="30" alt="LangChain" title="LangChain – building LLM agents and chains" />
 </p>
 
 </p>
 
 #### ☁️ Cloud & Infrastructure  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/microsoft/azure-pipelines-vscode/master/images/icon.png" height="30" alt="Azure Pipelines" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" title="Azure – cloud infrastructure for data & ML workloads" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker – containerizing ML apps & microservices" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="FastAPI" title="FastAPI – building blazing fast ML APIs" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="30" alt="GitHub Actions" title="GitHub Actions – CI/CD for ML projects" />
 </p>
 
 #### 🏢 Corporate Stack  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" alt="Confluence" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="Jira" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="Slack" />
-  <img src="https://cdn.simpleicons.org/microsoftoutlook/0072C6" height="30" alt="Outlook" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" alt="Confluence" title="Confluence – documentation & knowledge base for teams" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="Jira" title="Jira – agile boards, ticketing & sprint planning" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="Bitbucket" title="Bitbucket – Git-based source control by Atlassian" />
 </p>
 
 
-###
 <!-- Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/caitlon/caitlon/output/github-snake.svg" />
 </picture>
-
-###
