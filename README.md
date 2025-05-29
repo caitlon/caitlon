@@ -6,21 +6,20 @@ Prague, Czech Republic 🇨🇿
 
 🔹 Real-world ML systems in production: PySpark + Azure + Docker  
 🔹 Focused on reproducibility, monitoring, and end-to-end MLops  
-🔹 Strong fundamentals in math, research, and scalable architecture
+🔹 Strong foundation in math, statistics, and applied research methods
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 💼 Machine Learning & AI engineer with real-world experience in data engineering and analytics 
-- 🎓 A-level AI student, involved in university-led ML research  
-- ☁️ Building and deploying scalable ML pipelines with Azure ML, PySpark, Docker, and FastAPI  
+- 🎓 Collaborating with a university research group at CTU on applied ML methods 
 - 🧪 My sweet spot: where academic precision meets production reality
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-🩺 **[Pneumonia Classifier](https://github.com/caitlon/pneumonia-classifier)** – End-to-end FastAPI + Azure deployment for X-ray image classification  
-🍅 **[NIRS – Tomato Spectroscopy Analysis](https://github.com/caitlon/NIRS)** – Deep regression pipeline for analyzing tomato quality with NIR spectroscopy, MLflow tracking, spectral transforms, and rich visualizations 
+**[Pneumonia Classifier](https://github.com/caitlon/pneumonia-classifier)** – End-to-end FastAPI + Azure deployment for X-ray image classification  
+**[NIRS – Tomato Spectroscopy Analysis](https://github.com/caitlon/NIRS)** – Deep regression pipeline for analyzing tomato quality with NIR spectroscopy, MLflow tracking, spectral transforms, and rich visualizations 
 
-### 📈 GitHub Stats & Activity
+## 📈 GitHub Stats & Activity
 <div align="center">
   <!-- GitHub Stats -->
   <picture>
@@ -44,18 +43,18 @@ Prague, Czech Republic 🇨🇿
   </picture>
 </div>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### 💻 Languages  
+### Languages  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" title="R" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="SQL (PostgreSQL)" title="SQL (PostgreSQL)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" title="NoSQL (MongoDB)" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" title="Bash" />
-
 </p>
 
-#### 🧠 ML & Data Science  
+### ML & Data Science  
 <p>
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="30" alt="PySpark" title="PySpark – distributed data processing with Spark" />
@@ -63,13 +62,14 @@ Prague, Czech Republic 🇨🇿
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" title="TensorFlow – deep learning at scale" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" title="Jupyter – notebooks for prototyping and storytelling" />
   <img src="images/mlflow.png" height="30" alt="MLflow" title="MLflow – experiment tracking & model lifecycle" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="30" alt="Databricks" title="Databricks – collaborative platform for big data and ML workflows" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30" alt="HuggingFace" title="Hugging Face – Transformers, datasets, 🤗 everything LLMs" />
   <img src="images/langchain.jpg" height="30" alt="LangChain" title="LangChain – building LLM agents and chains" />
 </p>
 
 </p>
 
-#### ☁️ Cloud & Infrastructure  
+### Cloud & Infrastructure  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" title="Azure – cloud infrastructure for data & ML workloads" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker – containerizing ML apps & microservices" />
@@ -77,7 +77,7 @@ Prague, Czech Republic 🇨🇿
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="30" alt="GitHub Actions" title="GitHub Actions – CI/CD for ML projects" />
 </p>
 
-#### 🏢 Corporate Stack  
+### Corporate Stack  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" alt="Confluence" title="Confluence – documentation & knowledge base for teams" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="Jira" title="Jira – agile boards, ticketing & sprint planning" />
