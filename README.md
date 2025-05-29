@@ -1,45 +1,94 @@
-<h2 align="left">Some text</h2>
+<h2 align="center">Hi, I'm Katya 👋</h2>
+<p align="center">
+ML Engineer · AI Developer · Data Scientist  
+Prague, Czech Republic 🇨🇿
+</p>
 
-###
+🔹 Real-world ML systems in production: PySpark + Azure + Docker  
+🔹 Focused on reproducibility, monitoring, and end-to-end MLops  
+🔹 Strong fundamentals in math, research, and scalable architecture
 
+### 👩‍💻 About Me
+
+- 💼 Machine Learning & AI engineer with real-world experience in data engineering and analytics 
+- 🎓 A-level AI student, involved in university-led ML research  
+- ☁️ Building and deploying scalable ML pipelines with Azure ML, PySpark, Docker, and FastAPI  
+- 🔬 Obsessed with designing robust, interpretable ML systems that actually survive in production
+
+### 🚀 Featured Projects
+
+🩺 **[Pneumonia Classifier](#)** – End-to-end FastAPI + Azure deployment for X-ray image classification  
+📊 **[Bank Risk Detection](#)** – PySpark-based risk scoring model w/ batch + streaming logic  
+🧠 **[LLM Prompt Evaluator](#)** – Tool for analyzing hallucination rate in large language models  
+
+### 📈 GitHub Stats & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caitlon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=caitlon&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caitlon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <!-- GitHub Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=caitlon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=caitlon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api?username=caitlon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph" />
+  </picture>
+
+  <!-- Streak Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caitlon&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=caitlon&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" />
+    <img src="https://streak-stats.demolab.com?user=caitlon&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  </picture>
+
+  <!-- Top Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=caitlon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=caitlon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caitlon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph" />
+  </picture>
 </div>
 
+### 🛠️ Tech Stack
+
+#### 💻 Languages  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" />
+</p>
+
+#### 🧠 ML & Data Science  
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="30" alt="PySpark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="Kaggle" />
+  <img src="images/mlflow.png" height="30" alt="MLflow" />
+</p>
+
+#### ☁️ Cloud & Infrastructure  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/microsoft/azure-pipelines-vscode/master/images/icon.png" height="30" alt="Azure Pipelines" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="FastAPI" />
+</p>
+
+#### 🏢 Corporate Stack  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" alt="Confluence" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="Jira" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="Slack" />
+  <img src="https://cdn.simpleicons.org/microsoftoutlook/0072C6" height="30" alt="Outlook" />
+</p>
+
+
 ###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" alt="confluence logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/caitlon/caitlon/output/snake.svg" alt="Snake animation" />
+<!-- Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/caitlon/caitlon/output/github-snake.svg" />
+</picture>
 
 ###
