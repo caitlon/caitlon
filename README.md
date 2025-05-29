@@ -62,7 +62,7 @@ Prague, Czech Republic 🇨🇿
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="Kaggle" />
-  <img src="images/mlflow.png" height="30" alt="MLflow" />
+  <img src="images/mlflow.webp" height="30" alt="MLflow" />
 </p>
 
 #### ☁️ Cloud & Infrastructure  
