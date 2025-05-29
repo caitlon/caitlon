@@ -49,20 +49,25 @@ Prague, Czech Republic 🇨🇿
 
 #### 💻 Languages  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" title="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="SQL (PostgreSQL)" title="SQL (PostgreSQL)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" title="Bash" />
+
 </p>
 
 #### 🧠 ML & Data Science  
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="30" alt="PySpark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="Kaggle" />
-  <img src="images/mlflow.webp" height="30" alt="MLflow" />
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="30" alt="PySpark" title="PySpark – distributed data processing with Spark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" title="PyTorch – deep learning framework I love for flexibility" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" title="TensorFlow – deep learning at scale" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" title="Jupyter – notebooks for prototyping and storytelling" />
+  <img src="images/mlflow.png" height="30" alt="MLflow" title="MLflow – experiment tracking & model lifecycle" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30" alt="HuggingFace" title="Hugging Face – Transformers, datasets, 🤗 everything LLMs" />
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/img/favicon.ico" height="30" alt="LangChain" title="LangChain – building LLM agents and chains" />
+</p>
+
 </p>
 
 #### ☁️ Cloud & Infrastructure  
