@@ -3,15 +3,12 @@
 ML Engineer · AI Developer · Data Scientist
 </p>
 
-🔹 Real-world ML systems in production: PySpark + Azure + Docker  
-🔹 Focused on reproducibility, monitoring, and end-to-end MLops  
-🔹 Strong foundation in math, statistics, and applied research methods
-
 ## 👩‍💻 About Me
 
-- 💼 Machine Learning & AI engineer with real-world experience in data engineering and analytics 
-- 🎓 Collaborating with a university research group at CZU on applied ML methods 
-- 🧪 My sweet spot: where academic precision meets production reality
+- 💼 ML/AI engineer with real-world experience in data engineering and analytics  
+- 🛠 Building production-grade ML systems using PySpark, Azure, Docker & FastAPI  
+- 🧪 Collaborating with a university research group at CZU on applied ML methods 
+- 🧠 Strong foundation in math, statistics, and clean architecture design
 
 ## 🚀 Featured Projects
 
