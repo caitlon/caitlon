@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Katya 👋</h2>
 <p align="center">
-ML Engineer · AI Developer · Data Scientist
+ML Engineer · AI Developer
 </p>
 
 ## 👩‍💻 About Me
