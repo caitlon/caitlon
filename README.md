@@ -80,11 +80,10 @@ ML Engineer · AI Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="Bitbucket" title="Bitbucket – Git-based source control by Atlassian" />
 </p>
 
-
+<!-- <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caitlon/caitlon/output/pacman-contribution-graph.svg"> -->
 <!-- Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/github-snake.svg" />
-  <!-- <img alt="github-snake" src="https://raw.githubusercontent.com/caitlon/caitlon/output/github-snake.svg" /> -->
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caitlon/caitlon/output/pacman-contribution-graph.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/caitlon/caitlon/output/github-snake.svg" />
 </picture>
