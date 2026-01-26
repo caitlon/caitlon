@@ -17,13 +17,6 @@ ML Engineer · AI Developer
 
 ## GitHub Stats & Activity
 <div align="center">
-  <!-- GitHub Stats (self-hosted via GitHub Actions) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/stats-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/stats-light.svg" />
-    <img src="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/stats-light.svg" height="150" alt="stats graph" />
-  </picture>
-
   <!-- Streak Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caitlon&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" />
