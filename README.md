@@ -49,11 +49,6 @@ ML Engineer · AI Developer
 ### Cloud & Infrastructure
 <img src="https://skillicons.dev/icons?i=azure,docker,fastapi,githubactions" />
 
-### Corporate Stack
-<img src="https://skillicons.dev/icons?i=bitbucket" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="48" alt="Confluence" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="Jira" />
-
 <!-- Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/github-snake-dark.svg" />
