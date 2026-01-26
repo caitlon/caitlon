@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Katya 👋</h2>
+<h2 align="center">Hi, I'm Katya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 <p align="center">
 ML Engineer · AI Developer
 </p>
