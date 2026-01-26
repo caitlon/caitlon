@@ -28,7 +28,7 @@ ML Engineer · AI Developer
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/languages-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/languages-light.svg" />
-    <img src="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/languages-light.svg" height="150" alt="languages graph" />
+    <img src="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/languages-light.svg" height="110" alt="languages graph" />
   </picture>
 </div>
 
