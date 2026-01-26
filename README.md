@@ -34,41 +34,25 @@ ML Engineer · AI Developer
 
 ## Tech Stack
 
-### Languages  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" title="R" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="SQL (PostgreSQL)" title="SQL (PostgreSQL)" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" title="NoSQL (MongoDB)" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" title="Bash" />
-</p>
+### Languages
+<img src="https://skillicons.dev/icons?i=python,r,postgres,mongodb,bash" />
 
 ### ML & Data Science
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="30" alt="PySpark" title="PySpark – distributed data processing with Spark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" title="PyTorch – deep learning framework I love for flexibility" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" title="TensorFlow – deep learning at scale" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" title="Jupyter – notebooks for prototyping and storytelling" />
-  <img src="images/mlflow.png" height="30" alt="MLflow" title="MLflow – experiment tracking & model lifecycle" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="30" alt="Databricks" title="Databricks – collaborative platform for big data and ML workflows" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30" alt="HuggingFace" title="Hugging Face – Transformers, datasets, 🤗 everything LLMs" />
-  <img src="images/langchain.jpg" height="30" alt="LangChain" title="LangChain – building LLM agents and chains" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="48" alt="PySpark" />
+  <img src="images/mlflow.png" height="48" alt="MLflow" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" alt="HuggingFace" />
+  <img src="images/langchain.jpg" height="48" alt="LangChain" />
 </p>
 
-### Cloud & Infrastructure  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" title="Azure – cloud infrastructure for data & ML workloads" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker – containerizing ML apps & microservices" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="FastAPI" title="FastAPI – building blazing fast ML APIs" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="30" alt="GitHub Actions" title="GitHub Actions – CI/CD for ML projects" />
-</p>
+### Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=azure,docker,fastapi,githubactions" />
 
-### Corporate Stack  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" alt="Confluence" title="Confluence – documentation & knowledge base for teams" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="Jira" title="Jira – agile boards, ticketing & sprint planning" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="Bitbucket" title="Bitbucket – Git-based source control by Atlassian" />
-</p>
+### Corporate Stack
+<img src="https://skillicons.dev/icons?i=bitbucket" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="48" alt="Confluence" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="Jira" />
 
 <!-- Snake -->
 <picture>
