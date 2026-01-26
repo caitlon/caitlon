@@ -24,11 +24,11 @@ ML Engineer · AI Developer
     <img src="https://streak-stats.demolab.com?user=caitlon&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   </picture>
 
-  <!-- Top Languages (self-hosted via GitHub Actions) -->
+  <!-- Top Languages -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/languages-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/languages-light.svg" />
-    <img src="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/languages-light.svg" height="120" alt="languages graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=caitlon&layout=compact&langs_count=5&theme=dracula&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=caitlon&layout=compact&langs_count=5&theme=default&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caitlon&layout=compact&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph" />
   </picture>
 </div>
 
