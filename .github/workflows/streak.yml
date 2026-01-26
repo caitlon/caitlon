@@ -1,0 +1,39 @@
+name: GitHub Streak
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Streak (Light)
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          user: caitlon
+          theme: default
+          output_path: dist/streak-light.svg
+
+      - name: Streak (Dark)
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          user: caitlon
+          theme: dracula
+          output_path: dist/streak-dark.svg
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          destination_dir: streak
+          commit_message: "Update streak [skip ci]"
