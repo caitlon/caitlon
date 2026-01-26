@@ -37,14 +37,8 @@ ML Engineer · AI Developer
 ### Languages
 <img src="https://skillicons.dev/icons?i=python,r,postgres,mongodb,bash" />
 
-### ML & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="48" alt="PySpark" />
-  <img src="images/mlflow.png" height="48" alt="MLflow" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" alt="HuggingFace" />
-  <img src="images/langchain.jpg" height="48" alt="LangChain" />
-</p>
+### ML & AI Engineering
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv" />
 
 ### Cloud & Infrastructure
 <img src="https://skillicons.dev/icons?i=azure,docker,fastapi,githubactions" />
