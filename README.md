@@ -3,25 +3,25 @@
 ML Engineer · AI Developer
 </p>
 
-## 👩‍💻 About Me
+## About Me
 
-- 💼 ML/AI engineer with real-world experience in data engineering and analytics  
-- 🛠 Building production-grade ML systems using PySpark, Azure, Docker & FastAPI  
-- 🧪 Collaborating with a university research group at CZU on applied ML methods 
-- 🧠 Strong foundation in math, statistics, and clean architecture design
+- ML/AI engineer with real-world experience in data engineering and analytics
+- Building production-grade ML systems using PySpark, Azure, Docker & FastAPI
+- Collaborating with a university research group at CZU on applied ML methods
+- Strong foundation in math, statistics, and clean architecture design
 
-## 🚀 Featured Projects
+## Featured Projects
 
 **[Pneumonia Classifier](https://github.com/caitlon/pneumonia-classifier)** – End-to-end FastAPI + Azure deployment for X-ray image classification  
 **[NIRS – Tomato Spectroscopy Analysis](https://github.com/caitlon/NIRS)** – Deep regression pipeline for analyzing tomato quality with NIR spectroscopy, MLflow tracking, spectral transforms, and rich visualizations 
 
-## 📈 GitHub Stats & Activity
+## GitHub Stats & Activity
 <div align="center">
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats (self-hosted via GitHub Actions) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=caitlon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=caitlon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" />
-    <img src="https://github-readme-stats.vercel.app/api?username=caitlon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/stats-light.svg" />
+    <img src="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/stats-light.svg" height="150" alt="stats graph" />
   </picture>
 
   <!-- Streak Stats -->
@@ -31,15 +31,15 @@ ML Engineer · AI Developer
     <img src="https://streak-stats.demolab.com?user=caitlon&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   </picture>
 
-  <!-- Top Languages -->
+  <!-- Top Languages (self-hosted via GitHub Actions) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=caitlon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=caitlon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caitlon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/languages-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/languages-light.svg" />
+    <img src="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/languages-light.svg" height="150" alt="languages graph" />
   </picture>
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages  
 <p>
@@ -50,8 +50,7 @@ ML Engineer · AI Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" title="Bash" />
 </p>
 
-### ML & Data Science  
-<p>
+### ML & Data Science
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="30" alt="PySpark" title="PySpark – distributed data processing with Spark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" title="PyTorch – deep learning framework I love for flexibility" />
@@ -61,8 +60,6 @@ ML Engineer · AI Developer
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="30" alt="Databricks" title="Databricks – collaborative platform for big data and ML workflows" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30" alt="HuggingFace" title="Hugging Face – Transformers, datasets, 🤗 everything LLMs" />
   <img src="images/langchain.jpg" height="30" alt="LangChain" title="LangChain – building LLM agents and chains" />
-</p>
-
 </p>
 
 ### Cloud & Infrastructure  
@@ -80,7 +77,6 @@ ML Engineer · AI Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="Bitbucket" title="Bitbucket – Git-based source control by Atlassian" />
 </p>
 
-<!-- <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caitlon/caitlon/output/pacman-contribution-graph.svg"> -->
 <!-- Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/github-snake-dark.svg" />
