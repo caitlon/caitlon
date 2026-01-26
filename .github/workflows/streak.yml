@@ -15,19 +15,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Streak (Light)
-        uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          user: caitlon
-          theme: default
-          output_path: dist/streak-light.svg
+      - name: Create dist folder
+        run: mkdir -p dist
 
-      - name: Streak (Dark)
-        uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          user: caitlon
-          theme: dracula
-          output_path: dist/streak-dark.svg
+      - name: Download Streak (Light)
+        run: |
+          curl -o dist/streak-light.svg "https://streak-stats.demolab.com?user=caitlon&theme=default&hide_border=false&border_radius=5"
+
+      - name: Download Streak (Dark)
+        run: |
+          curl -o dist/streak-dark.svg "https://streak-stats.demolab.com?user=caitlon&theme=dracula&hide_border=false&border_radius=5"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
