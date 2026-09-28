@@ -20,9 +20,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/python-3.13+-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/typescript-6.0+-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/fastapi-0.141+-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/react-19+-61DAFB?logo=react&logoColor=black" alt="React" />
 </p>
 
 Software that helps panels of experts turn genuine disagreement into defensible decisions under fuzzy uncertainty.
@@ -40,7 +38,7 @@ Software that helps panels of experts turn genuine disagreement into defensible 
 
 ### Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,ts,react,fastapi,bash" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,fastapi,bash" alt="Languages & Frameworks" />
 </p>
 
 ### Cloud & Infrastructure
