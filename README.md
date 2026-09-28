@@ -36,6 +36,14 @@ Software that helps panels of experts turn genuine disagreement into defensible 
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv" alt="ML & AI Engineering" />
 </p>
 
+### GenAI & MLOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+</p>
+
 ### Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,r,postgres,fastapi,bash" alt="Languages & Frameworks" />
