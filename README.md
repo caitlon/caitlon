@@ -1,21 +1,57 @@
 <h2 align="center">Hi, I'm Katya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 <p align="center">
-ML Engineer · AI Developer
+  <b>AI Engineer · ML Engineer</b>
 </p>
 
-## About Me
+## 🔬 About Me
 
-- ML/AI engineer with real-world experience in data engineering and analytics
-- Building production-grade ML systems using PySpark, Azure, Docker & FastAPI
-- Collaborating with a university research group at CZU on applied ML methods
-- Strong foundation in math, statistics, and clean architecture design
+- **AI & ML Engineer** with real-world experience in building, evaluating, and deploying intelligent systems and data pipelines.
+- Conducting applied research at the **Czech University of Life Sciences Prague (ČZU)** focusing on machine learning methods, fuzzy mathematical modeling, and decision-support algorithms.
+- Building production-grade ML/AI systems using **Python, PyTorch, PySpark, Azure, Docker & FastAPI**.
+- Strong foundation in math, statistics, and clean architecture design.
 
-## Featured Projects
+---
 
-**[Pneumonia Classifier](https://github.com/caitlon/pneumonia-classifier)** – End-to-end FastAPI + Azure deployment for X-ray image classification  
-**[NIRS – Tomato Spectroscopy Analysis](https://github.com/caitlon/NIRS)** – Deep regression pipeline for analyzing tomato quality with NIR spectroscopy, MLflow tracking, spectral transforms, and rich visualizations 
+## 🏆 Featured Project
 
-## GitHub Stats & Activity
+### [BeCoMe — Group Decision-Making Platform](https://github.com/caitlon/BeCoMe)
+> 🥇 **Award-Winning Applied Research Project** — Award winner in the *Competition for the Best Publication and Applied Project* at the international *Agrarian Perspectives* conference.  
+> 🌐 **Live Web Application:** [becomify.app](https://www.becomify.app) · 📚 **Documentation:** [docs.becomify.app](https://docs.becomify.app)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3.13+-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/typescript-6.0+-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/fastapi-0.141+-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/react-19+-61DAFB?logo=react&logoColor=black" alt="React" />
+</p>
+
+Software that helps panels of experts turn genuine disagreement into defensible decisions under fuzzy uncertainty.
+- Implements the **BeCoMe** (Best Compromise Mean) method using triangular fuzzy numbers, median/mean consensus aggregation, and outlier-resistant disagreement metrics.
+- Complete full-stack architecture with real-world case studies (flood prevention policy, COVID-19 budget allocation, cross-border mobility).
+
+---
+
+## 🛠️ Tech Stack
+
+### ML & AI Engineering
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv" alt="ML & AI Engineering" />
+</p>
+
+### Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,ts,react,fastapi,bash" alt="Languages & Frameworks" />
+</p>
+
+### Cloud & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,docker,githubactions,git" alt="Cloud & Infrastructure" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
 <div align="center">
   <!-- Streak Stats -->
   <picture>
@@ -26,24 +62,13 @@ ML Engineer · AI Developer
 
   <!-- Top Languages -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=caitlon&layout=compact&langs_count=5&theme=dracula&hide_border=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=caitlon&layout=compact&langs_count=5&theme=default&hide_border=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caitlon&layout=compact&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/languages-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/languages-light.svg" />
+    <img src="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/languages-light.svg" alt="languages graph" />
   </picture>
 </div>
 
-## Tech Stack
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,r,postgres,mongodb,bash" />
-
-### ML & AI Engineering
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv" />
-
-### Cloud & Infrastructure
-<img src="https://skillicons.dev/icons?i=azure,docker,fastapi,githubactions" />
-
-<!-- Snake -->
+<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/github-snake.svg" />
