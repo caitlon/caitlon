@@ -56,8 +56,11 @@ Software that helps expert panels turn disagreement into a defensible decision u
 
 ### Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,fastapi,bash" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" title="Python" />
   &nbsp;<img src="images/fastmcp.svg" width="48" alt="FastMCP" title="FastMCP" />
+  &nbsp;<img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI" title="FastAPI" />
+  &nbsp;<img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;<img src="https://skillicons.dev/icons?i=bash" width="48" alt="Bash" title="Bash" />
 </p>
 
 ### Cloud & Infrastructure
