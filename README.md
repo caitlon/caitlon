@@ -82,6 +82,16 @@ Software that helps expert panels turn disagreement into a defensible decision u
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/languages-light.svg" />
     <img src="https://raw.githubusercontent.com/caitlon/caitlon/output/metrics/languages-light.svg" alt="languages graph" />
   </picture>
+
+  <!-- Spotify Now Playing -->
+  <br/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31axkco5wyfah2tdwrc4jlrxx6pi&redirect=true">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31axkco5wyfah2tdwrc4jlrxx6pi&cover_image=true&theme=spotify-embed&show_offline=false&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=false&mode=dark&background_color=121212" />
+      <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31axkco5wyfah2tdwrc4jlrxx6pi&cover_image=true&theme=spotify-embed&show_offline=false&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=false&mode=light&background_color=ffffff" />
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31axkco5wyfah2tdwrc4jlrxx6pi&cover_image=true&theme=spotify-embed&show_offline=false&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=false&mode=light&background_color=ffffff" alt="Now playing on Spotify" />
+    </picture>
+  </a>
 </div>
 
 <!-- Snake Animation -->
