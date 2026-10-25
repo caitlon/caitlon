@@ -15,7 +15,7 @@
 ## 🏆 Featured Project
 
 ### [BeCoMe](https://github.com/caitlon/BeCoMe)
-> Award winner in the competition for the best publication and applied project at the international Agrarian Perspectives conference.  
+> Award winner, Best Publication and Applied Project competition, Agrarian Perspectives conference.  
 > Live web app: [becomify.app](https://www.becomify.app) · Documentation: [docs.becomify.app](https://docs.becomify.app)
 
 <p align="left">
