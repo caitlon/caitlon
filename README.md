@@ -8,7 +8,7 @@
 - I build LLM applications with RAG and tool-calling agents, and choose between designs by measuring them on test sets, not on a few demo questions.
 - Conducting applied research at the **Czech University of Life Sciences Prague (ČZU)** focusing on machine learning methods, fuzzy mathematical modeling, and decision-support algorithms.
 - Building production-grade ML/AI systems using **Python, PyTorch, PySpark, Azure, Docker & FastAPI**.
-- Strong foundation in math, statistics, and clean architecture design.
+- I plan and design systems end to end: requirements, UML models, data model, API contract and release flow.
 
 ---
 
