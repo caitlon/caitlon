@@ -15,6 +15,8 @@
 ## 🏆 Featured Project
 
 ### [BeCoMe](https://github.com/caitlon/BeCoMe)
+> Award winner in the competition for the best publication and applied project at the international Agrarian Perspectives conference.  
+> Live web app: [becomify.app](https://www.becomify.app) · Documentation: [docs.becomify.app](https://docs.becomify.app)
 
 <p align="left">
   <img src="https://img.shields.io/badge/python-3.13+-3776AB?logo=python&logoColor=white" alt="Python" />
@@ -22,13 +24,16 @@
   <img src="https://img.shields.io/badge/react-19+-61DAFB?logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/typescript-6.0+-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/postgresql-16+-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white" alt="pgvector" />
 </p>
 
-Expert panels enter fuzzy estimates, and the app combines them into one decision with the Best Compromise Mean method. A built-in LLM assistant answers questions about the method and explains each project's result, seeing only what the user can see. Live at [becomify.app](https://www.becomify.app), docs at [docs.becomify.app](https://docs.becomify.app). The project received an award in the competition for the best publication and applied project at the Agrarian Perspectives international conference.
-
-The assistant runs RAG over the docs and the method papers: `bge-m3` embeddings in pgvector plus BM25, merged by reciprocal rank fusion. I measured it on held-out and sealed question sets in English and Czech, with blinded LLM judges grading the answers. LLM-written chunk captions raised hit@5 on the development set from 73% to 87%. A tool-calling LangChain agent delivered about a quarter of the facts that a fixed retrieve-then-answer pipeline did, so production runs the pipeline. The models run in the EU on OVHcloud, and the server flags answers that cite a missing passage or give a number it cannot find in the sources.
+Software that helps expert panels turn disagreement into a defensible decision under fuzzy uncertainty, with an LLM assistant built in.
+- An LLM assistant answers questions about the method and explains each project's result, seeing only what the user can see.
+- RAG over the docs and the method papers: `bge-m3` embeddings in pgvector plus BM25, merged by reciprocal rank fusion. LLM-written chunk captions raised hit@5 on the development set from 73% to 87%.
+- A tool-calling LangChain agent delivered about a quarter of the facts that a fixed retrieve-then-answer pipeline did on a sealed set of 80 questions, so production runs the pipeline.
+- Evaluated on held-out and sealed question sets in English and Czech, with blinded LLM judges grading the answers.
+- Models run in the EU on OVHcloud, and the server flags answers that cite a missing passage or give a number it cannot find in the sources.
+- Implements the Best Compromise Mean method on triangular fuzzy numbers, with mean and median consensus and outlier-resistant disagreement metrics.
+- Full-stack product with real-world case studies (flood prevention policy, COVID-19 budget allocation, cross-border mobility).
 
 ---
 
@@ -39,6 +44,7 @@ The assistant runs RAG over the docs and the method papers: `bge-m3` embeddings 
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
 </p>
