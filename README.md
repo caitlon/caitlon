@@ -84,7 +84,7 @@ Software that helps expert panels turn disagreement into a defensible decision u
   </picture>
 
   <!-- Spotify Now Playing -->
-  <br/>
+  <p><i>helping me to survive</i></p>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31axkco5wyfah2tdwrc4jlrxx6pi&redirect=true">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31axkco5wyfah2tdwrc4jlrxx6pi&cover_image=true&theme=spotify-embed&show_offline=false&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=false&mode=dark&background_color=121212" />
