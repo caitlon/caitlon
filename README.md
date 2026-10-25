@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/postgresql-16+-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-Software that helps expert panels turn disagreement into a defensible decision under fuzzy uncertainty, with an LLM assistant built in.
+Software that helps expert panels turn disagreement into a defensible decision under fuzzy uncertainty.
 - An LLM assistant answers questions about the method and explains each project's result, seeing only what the user can see.
 - RAG over the docs and the method papers: `bge-m3` embeddings in pgvector plus BM25, merged by reciprocal rank fusion. LLM-written chunk captions raised hit@5 on the development set from 73% to 87%.
 - A tool-calling LangChain agent delivered about a quarter of the facts that a fixed retrieve-then-answer pipeline did on a sealed set of 80 questions, so production runs the pipeline.
